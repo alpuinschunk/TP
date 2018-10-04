@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1538610197 source:c:\users\rodrigo\desktop\antonella\bibliotecacentral\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538612429 source:c:\users\rodrigo\desktop\tp n°2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Antonella/BibliotecaCentral/utn.h"
+
+1538613179 c:\users\rodrigo\desktop\antonella\bibliotecacentral\utn.h
+
+1538616389 source:c:\users\rodrigo\desktop\tp n°2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"../Antonella/BibliotecaCentral/utn.h"
+
+1538615252 c:\users\rodrigo\desktop\tp n°2\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+
